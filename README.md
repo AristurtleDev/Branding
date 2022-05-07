@@ -1,5 +1,7 @@
 <h1 align="center">
+
 ![Aristurtle Logo](https://raw.githubusercontent.com/AristurtleDev/Branding/main/imgs/aristurtle-logo/aristurtle-logo-256-dark.png#gh-light-mode-only)
+
 ![Aristurtle Logo](https://raw.githubusercontent.com/AristurtleDev/Branding/main/imgs/aristurtle-logo/aristurtle-logo-256-light.png#gh-dark-mode-only)
 Aristurtle Branding
 </h1>
